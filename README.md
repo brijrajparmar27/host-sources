@@ -5,7 +5,7 @@ these hosts are currently a part of [Steven Black Hosts List](https://github.com
 # links
 
 [Social](https://raw.githubusercontent.com/brijrajparmar27/host-sources/master/Social/hosts) <br>
-[Porn](https://raw.githubusercontent.com/brijrajparmar27/host-sources/master/Porn/hosts) <br>
+[Adult](https://raw.githubusercontent.com/brijrajparmar27/host-sources/master/Porn/hosts) <br>
 [Ads](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) (Discontinued) //redirects to Steven Black
 
 # What is a DNS block?
